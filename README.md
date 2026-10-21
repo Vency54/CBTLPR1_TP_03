@@ -19,3 +19,13 @@ https://github.com/user-attachments/assets/2d7f5b5c-cce1-4128-afde-fdd7cabac52b
 
 
 # CBTLPR1_TP_03
+
+# Aviso
+Para a visualização dos carecteres especiais no código, deve-se utilizar a codificação UTF-8. Caso não tenha a instalada na máquina, adicione a seguinte váriavel ambiente ao sistema:
+
+Nome da variável: JAVA_TOOL_OPTIONS
+
+Valor da variável: -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -Dconsole.encoding=UTF-8
+
+
+# Vídeos Demonstrativos
