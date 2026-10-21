@@ -1,0 +1,25 @@
+# Arquivos gerados pela compilação
+/build/
+/dist/
+
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*~
+
+# Configurações pessoais do NetBeans
+/nbproject/private/
+
+# Configurações locais do usuário
+nb-configuration.xml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
